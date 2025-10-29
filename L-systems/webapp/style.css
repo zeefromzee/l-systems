@@ -1,36 +1,29 @@
 *{
-    padding:0;
     margin:0;
-    color:white;
-
-}
-#navbar{
-    height: 60px;
-    background-color: black;
-}
-input{
-    color:black;
+    padding:0;
 }
 
-button{
-    background-color: rgb(255, 166, 0);
-    color:black;
+h1{
+    background-image: linear-gradient(rgb(0, 255, 115), rgb(78, 178, 159));
+    color: transparent;
+    background-clip: text;
+    text-align: center;
+    width:100%;
+    margin-top: 55px;
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
 }
-#logo{
-    color:rgb(255, 145, 0);
-    font-size:25px;
-    
-}
-a{
-    margin-right: 200px;
-    text-decoration: none;
-}
-footer{
-    color:black;
-}
-.content-box{
-    border:2px solid ;
-    height:40px;
-    width:40px;
-    border-color: black;
+.Photo-selections{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(173, 230, 174);
+    border: 2px solid rgb(98, 250, 144);
+    margin: 30px;
+    display: inline-block;
+    align-self: center;
+    padding-left: 100px;
+    text-align: center;
+    margin-left: 320px;
+    margin-right: 300px;
+    margin-bottom: 50px;
 }
